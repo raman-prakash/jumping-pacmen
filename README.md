@@ -1,4 +1,4 @@
-# Jumping Pac Men
+# Jumping Pacmen
 
 This project was completed as part of MIT's Fullstack Development course. A fun game to create jumping pacmen. 
 
